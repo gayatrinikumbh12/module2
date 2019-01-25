@@ -1,0 +1,13 @@
+Course Name: Agile Principles and Methodologies
+URL:    https://capgemini.skillport.com/skillportfe/main.action?path=summary/courses#summary/COURSES/CDE$97793:_ss_cca:apj_13_a01_it_enus
+Duration : 54 min 
+------------------
+Course Name: Software Practices (SCRUM): SCRUM Roles
+URL : https://capgemini.skillport.com/skillportfe/main.action?path=summary/courses#summary/COURSES/CDE$54782:_ss_cca:sd_spsc_a01_it_enus
+Duration : 2 Hours, 30 Minutes 
+-------------------
+Course Name: Agile Software Development Methodologies
+
+URL: https://capgemini.skillport.com/skillportfe/main.action?path=summary/courses#summary/COURSES/CDE$113031:_ss_cca:sd_adev_a02_it_enus
+
+Duration : 1 Hr, 5 Min 
